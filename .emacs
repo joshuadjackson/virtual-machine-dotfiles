@@ -1,0 +1,6 @@
+(setq inhibit-startup-message t)
+(global-font-lock-mode t)
+(menu-bar-mode 0)
+(setq make-backup-files nil)
+(global-linum-mode t)
+(setq linum-format "%d ")

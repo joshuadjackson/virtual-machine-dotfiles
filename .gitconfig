@@ -1,0 +1,9 @@
+[user]
+	name = Joshua Jackson
+	email = joshuadjackson15@gmail.com
+[color]
+	ui = true
+[push]
+	default = simple
+[alias]
+	lg = log --graph --pretty=format:'%cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
